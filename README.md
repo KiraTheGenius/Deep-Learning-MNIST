@@ -7,6 +7,7 @@ This notebook demonstrates building deep neural network classifiers for handwrit
 * Convolutional neural networks (CNN) with convolutional and pooling layers
 * Dropout regularization and learning rate decay for improved generalizability
 * Data augmentation to expand the training dataset
+  
 These models achieve over 97-99% accuracy on the MNIST test dataset, competitive with state-of-the-art results. Through accessible code examples and detailed comments, readers can understand the fundamentals of deep learning and apply these learnings to tackle their machine learning problems.
 
 ### Image of CNN model:
