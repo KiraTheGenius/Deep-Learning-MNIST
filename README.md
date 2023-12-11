@@ -15,6 +15,7 @@ These models achieve over 97-99% accuracy on the MNIST test dataset, competitive
 ![CNN](https://raw.githubusercontent.com/KiraTheGenius/Deep-Learning-MNIST-TF2-Keras/main/CNN_Architecture.png "CNN Architecture")
 
 The goal is to provide a practical introductory notebook covering neural network best practices using TensorFlow and Keras, applicable for those wanting hands-on experience in deep learning for computer vision tasks. Readers should finish with an understanding of how to build, train, and evaluate complex models using the latest frameworks.
+
 I would like to acknowledge that the initial impetus and direction for creating these deep learning models came from what I learned in Mahmood Karimian's excellent Deep Learning course at Rahnema College.
 
 Let me know if you have any other questions!
